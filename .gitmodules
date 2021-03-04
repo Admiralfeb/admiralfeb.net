@@ -1,0 +1,6 @@
+[submodule "react.admiralfeb.net"]
+	path = react.admiralfeb.net
+	url = https://github.com/Admiralfeb/react.admiralfeb.net.git
+[submodule "ng.admiralfeb.net"]
+	path = ng.admiralfeb.net
+	url = https://github.com/Admiralfeb/ng.admiralfeb.net.git
